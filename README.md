@@ -1,8 +1,6 @@
-# VetAI Vision
+# VetAI 
 
 A modern veterinary imaging analysis platform that uses AI to assist in diagnosing medical conditions from X-rays and other medical imaging.
-
-![VetAI Vision Demo](https://images.unsplash.com/photo-1584486483122-af7d49cf2992?auto=format&fit=crop&q=80&w=2000)
 
 ## 🌟 Features
 
